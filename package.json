@@ -1,0 +1,25 @@
+{
+  "name": "electron-main-reload",
+  "version": "1.0.0",
+  "description": "Reload electron main process on changes.",
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sentialx/electron-main-reload.git"
+  },
+  "keywords": [
+    "electron",
+    "reload",
+    "auto-reload",
+    "node",
+    "main"
+  ],
+  "author": "Eryk Rakowski <sentialx@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sentialx/electron-main-reload.git"
+  },
+  "dependencies": {
+    "chokidar": "2.1.2"
+  }
+}
